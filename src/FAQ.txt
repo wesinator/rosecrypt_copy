@@ -1,0 +1,29 @@
+What is the encryption algorithm Used in this program??
+
+The algorithm used is aes
+
+What AES mode it use?
+
+CBC mode - Cipher Block Chaining
+
+
+How encrypt a file by Rose Crypt?
+ 
+To encrypt a file:
+From main menu: File -> Encrypt
+Then write your passphrase and select the file that you need to encrypt.
+ 
+ 
+How decrypt a file by Rose Crypt?
+ 
+To decrypt a file:
+From main menu: File -> Decrypt
+Then write your passphrase and select the file that you need to decrypt.
+
+
+How can I help the project? 
+
+In many ways! Here are some:
+
+- Using Rose Crypt, and sharing it with your friends and family 
+-Reporting issues and bugs that you find, and suggesting improvements 
